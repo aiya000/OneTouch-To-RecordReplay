@@ -1,7 +1,7 @@
-# :diamond_shape_with_a_dot_inside: Record-Replay :diamond_shape_with_a_dot_inside:
+# :diamond_shape_with_a_dot_inside: OneTouch-To-RecordReplay :diamond_shape_with_a_dot_inside:
 ## What is this?
 
-An easy way to record replay of games via 'Xbox Game Bar'.
+An easy way to record replay of games and softwares via 'Xbox Game Bar'.
 
 ## Setup
 
